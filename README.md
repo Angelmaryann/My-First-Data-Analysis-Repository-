@@ -15,8 +15,34 @@
 **Engage**- You need to share this work with your stakeholders. Engage them with your recommendations.
 
 
-#### Personal Project-What to Do?
+## Personal Project-What to Do?
 
 Steps on what to do are as follow;
 
-**Find Objective**
+**Find Objective**- Explore the data and look for what problem can be coined from it. Create some business questions.
+
+**Analyze**- Then proceed to analyze the data by going through the right process-transform and clean data.
+
+**Document**- Github... Yes, it is time to put it to use. Document the Steps on Github.
+
+**Share**- Share your work on social media and seek for feedback.
+
+**Take Feedback**- Effect the changes.
+
+## Use This Framework to Document Your Project
+
+#### Problem Statement
+
+**Objective**- State what the objective of the project is . What rae the questions you are interested in answering.
+
+#### Data Sourcing
+
+**Where and How**- Where did you get the data and how.
+
+#### Data Cleaning
+
+**Transformation**- What step did you took to transform and clean the data.
+
+#### Findings and Recommendation
+
+**The Value**- What were the insights you found which are answers to the earlier stated questions. Any recommendation?
