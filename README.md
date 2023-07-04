@@ -2,4 +2,4 @@
 
 ## Data Analysis Project: Steps to Take 
 
-#### How to Approach Your Data Project
+#### **How to Approach Your Data Project**
