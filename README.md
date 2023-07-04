@@ -1,9 +1,9 @@
 # Project Name: My-First-Data-Analysis-Repository
 
 -----
-## Data Analysis Project: Steps to Take 
+# Data Analysis Project: Steps to Take 
 
-#### How to Approach Your Data Project
+## How to Approach Your Data Project
 
 **Start by asking questions**- Your project actually seeks to address a business need, hence it is important that you understand this need. Seek clarity and you get clarity by asking question. Just be sure that you understand what needed to be done and what value means for that question. Next is
 
@@ -15,8 +15,8 @@
 
 **Engage**- You need to share this work with your stakeholders. Engage them with your recommendations.
 
-
-## Personal Project-What to Do?
+-----
+# Personal Project-What to Do?
 
 Steps on what to do are as follow;
 
@@ -30,20 +30,25 @@ Steps on what to do are as follow;
 
 **Take Feedback**- Effect the changes.
 
+-----
 # Use This Framework to Document Your Project
 
-# Project Name: Problem Statement
+-----
+# Problem Statement
 
 **Objective**- State what the objective of the project is . What rae the questions you are interested in answering.
 
-#### Data Sourcing
+-----
+# Data Sourcing
 
 **Where and How**- Where did you get the data and how.
 
-#### Data Cleaning
+-----
+# Data Cleaning
 
 **Transformation**- What step did you took to transform and clean the data.
 
-#### Findings and Recommendation
+-----
+# Findings and Recommendation
 
 **The Value**- What were the insights you found which are answers to the earlier stated questions. Any recommendation?
