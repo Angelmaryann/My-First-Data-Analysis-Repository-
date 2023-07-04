@@ -9,7 +9,7 @@
 Your project actually seeks to address a business need, hence it is important that you understand this need. Seek clarity and you get clarity by asking question. Just be sure that you understand what needed to be done and what value means for that question. Next is
 
 **Where is the data?**
-You should take to check if the data to solve the problem is available and you know where to get them before you conclude it is doable.
+-You should take to check if the data to solve the problem is available and you know where to get them before you conclude it is doable.
 
 **Data Cleaning**
 
