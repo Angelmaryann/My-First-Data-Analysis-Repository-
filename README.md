@@ -1,5 +1,6 @@
-# My-First-Data-Analysis-Repository-
+# Project Name: My-First-Data-Analysis-Repository
 
+-----
 ## Data Analysis Project: Steps to Take 
 
 #### How to Approach Your Data Project
@@ -29,9 +30,9 @@ Steps on what to do are as follow;
 
 **Take Feedback**- Effect the changes.
 
-## Use This Framework to Document Your Project
+# Use This Framework to Document Your Project
 
-#### Problem Statement
+# Project Name: Problem Statement
 
 **Objective**- State what the objective of the project is . What rae the questions you are interested in answering.
 
