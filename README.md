@@ -36,7 +36,7 @@ Steps on what to do are as follow;
 -----
 # Project Name: Problem Statement
 
-**Objective**- State what the objective of the project is . What rae the questions you are interested in answering.
+**Objective**- State what the objective of the project is . What are the questions you are interested in answering.
 
 -----
 # Data Sourcing
