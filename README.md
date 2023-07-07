@@ -38,10 +38,13 @@ Steps on what to do are as follow;
 
 Performing an in-depth analysis of COVID-19 data from January 2020 to March 2023 to understand the patterns, trends, and impact of the pandemic on various aspects of society, and provide insights for effective decision-making and future planning.
 
-Objectives #1
+**Objectives #1**
+
 Analyze the global and regional spread of COVID-19 cases, including the identification of hotspots and their evolution over time.
 
-Objective #2
+
+**Objective #2**
+
 Develop predictive models and forecasting techniques to estimate future COVID-19 trends, allowing for proactive measures and resource allocation.
 
 -----
