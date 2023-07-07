@@ -49,8 +49,10 @@ Develop predictive models and forecasting techniques to estimate future COVID-19
 -----
 # Data Sourcing
 
-**Excel** is the tool used for this project. Data was obtained from https://aka.ms/30DLCOVID19GitHubData</li>
-Dataset were loaded and cleaned on Excel. Research Questions were formualted</li>
+**Excel** is the tool used for this project. Data was obtained from https://aka.ms/30DLCOVID19GitHubData
+
+Dataset were loaded and cleaned on Excel. Research Questions were formualted.
+
 -----
 # Data Cleaning
 
