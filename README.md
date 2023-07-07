@@ -36,12 +36,11 @@ Steps on what to do are as follow;
 -----
 # Project Name: Problem Statement
 
-Performing an in-depth analysis of COVID-19 data from January 2020 to March 2023 to understand the patterns, trends, and impact of the pandemic on various aspects of society, and provide insights for effective decision-making and future planning.
+Performing an in-depth analysis of COVID-19 data from January 2020 to March 2023 to understand the patterns, trends, and impact of the pandemic globally, and provide insights for effective decision-making and future planning.
 
 **Objectives #1**
 
 Analyze the global and regional spread of COVID-19 cases, including the identification of hotspots and their evolution over time.
-
 
 **Objective #2**
 
@@ -50,14 +49,12 @@ Develop predictive models and forecasting techniques to estimate future COVID-19
 -----
 # Data Sourcing
 
-**Where and How**- Where did you get the data and how.
-
+**Excel** is the tool used for this project. Data was obtained from https://aka.ms/30DLCOVID19GitHubData</li>
+Dataset were loaded and cleaned on Excel. Research Questions were formualted</li>
 -----
 # Data Cleaning
 
-**Transformation**- What step did you took to transform and clean the data.
+Dataset were loaded and cleaned on Excel. Research Questions were formualted.
 
 -----
 # Findings and Recommendation
-
-**The Value**- What were the insights you found which are answers to the earlier stated questions. Any recommendation?
